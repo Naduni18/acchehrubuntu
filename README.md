@@ -1,9 +1,10 @@
 # MIT 3201 Individual Project - 2019
 ## (Employee Management System for ACCHE (Pvt) Ltd.)
 
-# Tech/framework used
+## Tech/framework used
 
-- This is a web application developed using Laravel 6 framework.Also it uses the following technologies , plugins, tools.
+This is a web application developed using Laravel 6 framework.Also it uses the following technologies , plugins, tools.
+
 - Laravel framework 6.0 and related plugins, package managers
 - Fullcalendar plugin 4 
 - Argon Dashboard v1.0.10 
@@ -15,7 +16,7 @@
 - JavaScript
 - Jquery
 
-# Features
+## Features
 
 - Salary management
 - Branch member activity/detail management (for branch managers)
@@ -35,7 +36,7 @@
 - forgot password
 
 
-# Installation
+## Installation
 
 - Install XAMPP (or WAMP) server ( https://www.apachefriends.org/download.html ) 
 - Install  GIT in your computer ( https://git-scm.com/downloads )
@@ -59,7 +60,7 @@
 - Go to ‘http://localhost/ACCHEHR’
 - Logging using username  'rig@acche.lk' and password  'Secret&Secret'
     
-# URL for the application
+## URL for the application
 - https://www.acchehr.site/ (https://31.220.48.196)
  
  
