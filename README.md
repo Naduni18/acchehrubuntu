@@ -3,17 +3,17 @@ MIT 3201 Individual Project - 2019
 
 Tech/framework used
 
-This is a web application developed using Laravel 6 framework.Also it uses the following technologies , plugins, tools.
-Laravel framework 6.0 and related plugins, package managers
-Fullcalendar plugin 4 
-Argon Dashboard v1.0.10 
-PhpSpreadsheet
-Node.js
-PHP 7.2
-HTML
-CSS
-JavaScript
-Jquery
+*This is a web application developed using Laravel 6 framework.Also it uses the following technologies , plugins, tools.
+*Laravel framework 6.0 and related plugins, package managers
+*Fullcalendar plugin 4 
+*Argon Dashboard v1.0.10 
+*PhpSpreadsheet
+*Node.js
+*PHP 7.2
+*HTML
+*CSS
+*JavaScript
+*Jquery
 
 Features
 
