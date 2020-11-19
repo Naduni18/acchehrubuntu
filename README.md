@@ -34,6 +34,7 @@ Employee profile
 reset password
 forgot password
 
+
 Installation
 
 Install XAMPP (or WAMP) server ( https://www.apachefriends.org/download.html ) 
