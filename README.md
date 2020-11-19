@@ -58,7 +58,7 @@ This is a web application developed using Laravel 6 framework.Also it uses the f
 - Run  command ‘php artisan migrate --seed’
 - Run command ‘php artisan storage:link’
 - Go to ‘http://localhost/ACCHEHR’
-- Logging using username  'rig@acche.lk' and password  'Secret&Secret'
+- Logging to the dummy account using username  'rig@acche.lk' and password  'Secret&Secret'
     
 ## URL for the application
 - https://www.acchehr.site/ (https://31.220.48.196)
